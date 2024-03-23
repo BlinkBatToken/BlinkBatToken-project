@@ -29,7 +29,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact Us
 
-If you have any questions, suggestions, or feedback, feel free to reach out to us at [email@example.com](mailto:email@example.com) or join our Discord server (link).
+If you have any questions, suggestions, or feedback, feel free to reach out to us at [blinkbat.official@gmail.com](mailto:blinkbat.official@gmail.com) or join our Discord server (link).
 
 Happy Blinking!
 
